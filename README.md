@@ -78,23 +78,12 @@ I'm always curious about how things work, experimenting with new ideas, and lear
 <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge" />
 </p>
 
-
 <h3>🐍 My GitHub Contributions</h3>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Anscom/Anscom/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Anscom/Anscom/output/github-snake.svg"
-  />
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/Anscom/Anscom/output/github-snake.svg"
-  />
-</picture>
+<img
+  src="https://raw.githubusercontent.com/Anscom/Anscom/output/github-snake.svg"
+  alt="GitHub Contributions"
+/>
 
 
 ### 🌱 Currently Exploring
