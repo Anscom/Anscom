@@ -12,6 +12,10 @@ I'm always curious about how things work, experimenting with new ideas, and lear
 - 💻 Building projects and experimenting with different tech stacks
 - 📚 Always learning and improving my development skills
 
+### 🌐 Connect With Me
+
+- Portfolio: https://anscom-dev.com
+- LinkedIn: https://www.linkedin.com/in/ooi-cheong-wen-347016224/
 
 <h3>💻 Tech Stack</h3>
 
@@ -74,6 +78,25 @@ I'm always curious about how things work, experimenting with new ideas, and lear
 <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge" />
 </p>
 
+
+<h3>🐍 My GitHub Contributions</h3>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Anscom/Anscom/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Anscom/Anscom/output/github-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/Anscom/Anscom/output/github-snake.svg"
+  />
+</picture>
+
+
 ### 🌱 Currently Exploring
 
 - Artificial Intelligence
@@ -81,11 +104,6 @@ I'm always curious about how things work, experimenting with new ideas, and lear
 - Retrieval-Augmented Generation (RAG)
 - AI Application Development
 - Mobile Application
-
-### 🌐 Connect With Me
-
-- Portfolio: https://anscom-dev.com
-- LinkedIn: https://www.linkedin.com/in/ooi-cheong-wen-347016224/
 
 ---
 ⭐ Always curious. Always building. Always learning.
