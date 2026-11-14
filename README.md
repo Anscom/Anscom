@@ -78,6 +78,13 @@ I'm always curious about how things work, experimenting with new ideas, and lear
 <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge" />
 </p>
 
+<h4>Communication APIs & Integrations</h4>
+<p>
+<img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" />
+<img src="https://img.shields.io/badge/WhatsApp_Business_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<img src="https://img.shields.io/badge/Meta_Developer-0866FF?style=for-the-badge&logo=meta&logoColor=white" />
+</p>
+
 <h3>🐍 My GitHub Contributions</h3>
 
 <img
